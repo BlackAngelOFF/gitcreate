@@ -1,0 +1,4 @@
+/node_modules - исключит весь каталог
+/package-lock.json
+*/package - игнорит папку
+!/package/text.xml - но не игнорит файл
